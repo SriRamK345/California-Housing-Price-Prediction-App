@@ -85,12 +85,3 @@ The model is trained using the California Housing dataset from **scikit-learn**.
 2. Split the data into training and testing sets.
 3. Train a **Linear Regression** model.
 4. Save the trained model using `joblib`.
-
-```
-
-### Instructions for Use
-1. **Customize the GitHub URL**: Replace `https://github.com/yourusername/california-housing-price-prediction.git` with the actual URL of your GitHub repository.
-2. **Demo Image**: If you have a screenshot of your app, you can replace `demo_image.png` with the actual image filename or remove that line if you don’t have one.
-3. **Add a License**: If you choose to include a license, ensure you have a corresponding `LICENSE` file in your repository.
-
-This README file will provide clarity and guidance to anyone who visits your GitHub repository. Let me know if you need any adjustments!
